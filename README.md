@@ -2,10 +2,10 @@
 Travail réalisé par MOUKRIME_ABDESSAMAD/DKAKI_ABDERRAHIM
 
 La rétinopathie diabétique (Diabetic retinopathy (DR)) est considérée comme l'une des maladies mondiales de la cécité, en particulier chez les personnes âgées. La principale raison de cette maladie est la complication du diabète dans les vaisseaux sanguins rétiniens. Habituellement, les signes avant-coureurs ne sont pas observés. Le dépistage est une clé importante pour le diagnostic des stades précoces de la rétinopathie diabétique. Dans ce travail, notre tâche est de créer un système d'analyse automatisé capable d'attribuer un score basé sur l’échelle suivante : 0 – pas de DR   /1 – léger   / 2 - Modéré   /3 - Sévère /4 - DR proliférative ce qui peut aider les médecins à prendre une décision préliminaire.
+![myimage-alt-tag](https://ocutech.com//wp-content/uploads/2017/12/Diabetic-Retina.jpg)
 
 Le diabète, une maladie chronique affecte divers organes du corps humain, y compris la rétine. La rétinopathie diabétique (RD) résulte du diabète sucré (Diabetes Mellitus) (DM). La DM est la principale cause de cécité entre un groupe d'âge significatif dans les pays occidentaux. Il augmente dans les pays sous-développés aussi. Les patients atteints de DM sont beaucoup plus susceptibles à la cécité que sans DM. La rétinopathie diabétique progressive et l'œdème maculaire (cliniquement significatif) peuvent entraîner une perte de vision sévère. La RD affecte une large population diabétique dans les pays développés.
 DR, une maladie silencieuse qui n'apparaît qu'à ses derniers stades où le traitement est très difficile et dans certains cas impossibles. Dans la DR les vaisseaux sanguins qui aide à nourrir le la rétine commence à fuir du liquide et du sang sur la rétine, ce qui entraîne des caractéristiques visuelles appelées lésions telles que les microanévrysmes, hémorragies, exsudats durs, taches de coton, région des vaisseaux sanguins. Il ne peut être traité efficacement qu'à ses débuts et donc sa détection précoce est très importante grâce à un dépistage régulier. Le dépistage automatique est hautement nécessaire afin que l'effort manuel soit réduit vu que le cout de cette procédure est assez élevé.
-![myimage-alt-tag](https://ocutech.com//wp-content/uploads/2017/12/Diabetic-Retina.jpg)
 
 
 # Dataset:
